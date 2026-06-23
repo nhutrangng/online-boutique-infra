@@ -1,0 +1,8 @@
+global/bootstrap-state/.terraorm
+global/bootstrap-state/.terraform.lock.hcl
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+crash.log
